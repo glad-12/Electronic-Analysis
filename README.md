@@ -28,7 +28,8 @@ The dataset was cleaned, transformed, and modeled in Power BI to analyze custome
 ## Dashboard Preview
 <img width="960" height="540" alt="ELECT G" src="https://github.com/user-attachments/assets/ef396e09-90cf-4aba-a04e-3fc6e3ea0a54" />
 
-<img width="1114" height="555" alt="Elect Elect 1" src="https://github.com/user-attachments/assets/d8567bc3-4e43-4ae3-b0e2-90cfb4a2a019" />
+<img width="970" height="542" alt="image" src="https://github.com/user-attachments/assets/e22248c5-b2a8-426a-960a-0780bdb66d83" />
+
 
 ---
 
